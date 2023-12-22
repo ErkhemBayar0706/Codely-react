@@ -1,0 +1,23 @@
+.header{
+    padding: 12px;
+    background-color: #000000;
+    color: aliceblue;
+}
+.center{
+    text-align: center;
+}
+.bg-black {
+    background-color: #000000;
+}
+.no-margin {
+    margin: 0%;
+}
+nav a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #333;
+}

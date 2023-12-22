@@ -1,0 +1,30 @@
+body{
+    /* background-color: aqua; */
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    height: 13vh;
+    width: 200vh;
+
+}
+.header center no-margin{
+    display: flex;
+    align-items: center;
+
+}
+
+.content{
+    border: 1px dashed green;
+    height: 200vh;
+    width: 50vh;
+    display: flex;
+    flex-direction: column;
+}
